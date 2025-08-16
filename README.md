@@ -1,1 +1,1 @@
-CareOrbit is a digitalized hospital management system designed to streamline patient visits and medical record-keeping. It ensures an efficient flow from patient registration to doctor assignment and prescription tracking, enhancing both patient and doctor experiences.
+
